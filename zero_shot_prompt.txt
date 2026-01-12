@@ -1,4 +1,0 @@
-# Zero-Shot Prompt Template
-
-This file contains zero-shot prompts for generating code without prior context or examples.
-
